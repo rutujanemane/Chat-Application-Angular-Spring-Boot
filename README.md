@@ -1,1 +1,1 @@
-# Chat-Application-Angular-Spring-Boot
+# Application-frameworks-assignment
